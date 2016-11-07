@@ -79,3 +79,9 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+Related publications
+--------------------
+
+Arian Pasquali, Marcela Canavarro, Ricardo Campos, and Alípio M. Jorge. 2016. Assessing topic discovery evaluation measures on Facebook publications of political activists in Brazil. In Proceedings of the Ninth International C* Conference on Computer Science & Software Engineering (C3S2E '16), Evan Desai (Ed.). ACM, New York, NY, USA, 25-32. DOI: http://dx.doi.org/10.1145/2948992.2949015
