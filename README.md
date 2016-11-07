@@ -1,8 +1,11 @@
-Coherence evaluation experiments
+Coherence evaluation 
 ================================
 
 This project contains source code to automaticaly evaluate coherence from topics discovered using LDA.
 
+
+Quick start tutorial
+********************
 To run the experiments you can follow the following tutorial:  
 
 > make clean
