@@ -5,7 +5,8 @@ This project contains source code to automaticaly evaluate coherence from topics
 
 
 Quick start tutorial
-********************
+#####################
+
 To run the experiments you can follow the following tutorial:  
 
 > make clean
