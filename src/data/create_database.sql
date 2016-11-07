@@ -1,0 +1,2 @@
+CREATE TABLE "topic_coherence_scores" ( `n_topics` INTEGER NOT NULL, `topic_id` INTEGER NOT NULL, `ngrams` TEXT NOT NULL, `dataset_name` INTEGER NOT NULL, `extrinsic_umass` REAL, `extrinsic_uci` REAL, `intrinsic_umass` REAL, `intrinsic_uci` REAL, PRIMARY KEY(`n_topics`,`topic_id`,`dataset_name`) )
+CREATE TABLE "topics" ( `topic_id` INTEGER NOT NULL, `n_topics` INTEGER NOT NULL, `dataset_name` TEXT NOT NULL, `ngrams` TEXT, PRIMARY KEY(`topic_id`,`n_topics`,`dataset_name`) )
